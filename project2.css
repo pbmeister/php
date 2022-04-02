@@ -1,0 +1,49 @@
+.Signup{
+    border: rgb(65, 65, 179) solid 1px;
+    margin-right:32%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+input{
+   
+    margin: 5px;
+    font-family: 'Raleway', sans-serif;
+
+}
+p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    margin-bottom: 1px;
+    margin-left: 8px;
+}
+.img{
+    width: 200px;
+    float: right;
+   
+}
+.inp:focus{
+    border: 2px solid rgb(2, 2, 231);
+}
+
+a{
+    text-decoration: none;
+    color:#1a73e8;
+    margin-left: 8px;
+    font-family: 'Raleway', sans-serif;
+    
+}
+.inp{
+    padding: 20px;
+}
+
+a:hover{
+    color:  rgb(2, 2, 231);
+}
+#button
+{
+    background-color: #1a73e8;
+    border-radius: 5px;
+    color: white;
+    size: 20px;
+    padding:10px;
+}
